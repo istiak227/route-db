@@ -1,12 +1,13 @@
 {
- "route":   [{
+  "route": [
+    {
       "path": "home",
       "element": "Home",
       "routeName": "Home",
       "icon": "AddHomeIcon",
       "sideMenu": true
     },
-    {
+   {
       "path": "about",
       "element": "About",
       "routeName": "About",
@@ -19,5 +20,6 @@
       "routeName": "Contact",
       "icon": "AddHomeIcon",
       "sideMenu": true
-    }]
+    }
+  ]
 }
