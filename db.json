@@ -1,5 +1,5 @@
-[
-    {
+{
+ "route":   [{
       "path": "home",
       "element": "Home",
       "routeName": "Home",
@@ -19,5 +19,5 @@
       "routeName": "Contact",
       "icon": "AddHomeIcon",
       "sideMenu": true
-    }
-  ]
+    }]
+}
