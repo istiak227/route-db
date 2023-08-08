@@ -1,0 +1,23 @@
+[
+    {
+      "path": "home",
+      "element": "Home",
+      "routeName": "Home",
+      "icon": "AddHomeIcon",
+      "sideMenu": true
+    },
+    {
+      "path": "about",
+      "element": "About",
+      "routeName": "About",
+      "icon": "AddHomeIcon",
+      "sideMenu": true
+    },
+    {
+      "path": "contact",
+      "element": "Contact",
+      "routeName": "Contact",
+      "icon": "AddHomeIcon",
+      "sideMenu": true
+    }
+  ]
