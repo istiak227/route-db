@@ -20,6 +20,22 @@
         "routeName": "Contact",
         "icon": "AddHomeIcon",
         "sideMenu": true
+      },
+      {
+        "routeName":"purchase",
+        "icon":"InventoryIcon",
+        "hasChild":true,
+        "childRoutes":[
+          {"path":"party-purchase",
+          "routeName":"Party Purchase",
+          "icon":"InventoryIcon",
+          "select":"party-purchase"},
+
+          {"path":"petty-purchase",
+          "routeName":"Petty Purchase",
+          "icon":"InventoryIcon",
+          "select":"petty-purchase"}
+        ]
       }
   ],
   "comments": [
