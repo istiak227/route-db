@@ -5,7 +5,6 @@
         "element": "Home",
         "routeName": "Home",
         "icon": "AddHomeIcon",
-        "sideMenu": true,
         "hasChild":false
       },
       {
@@ -13,7 +12,6 @@
         "element": "About",
         "routeName": "About",
         "icon": "AddHomeIcon",
-        "sideMenu": true,
         "hasChild":false
       },
       {
@@ -21,14 +19,12 @@
         "element": "Contact",
         "routeName": "Contact",
         "icon": "AddHomeIcon",
-        "sideMenu": true,
         "hasChild":false
       },
       {
         "routeName":"purchase",
         "icon":"InventoryIcon",
         "hasChild":true,
-        "sideMenu": true,
         "childRoutes":[
           {"path":"party-purchase",
           "element":"PartyPurchase",
