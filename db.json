@@ -31,13 +31,13 @@
         "sideMenu": true,
         "childRoutes":[
           {"path":"party-purchase",
-          "element":"Party-purchase",
+          "element":"PartyPurchase",
           "routeName":"Party Purchase",
           "icon":"InventoryIcon",
           "select":"party-purchase"},
 
           {"path":"petty-purchase",
-          "element":"Petty-purchase",
+          "element":"PettyPurchase",
           "routeName":"Petty Purchase",
           "icon":"InventoryIcon",
           "select":"petty-purchase"}
