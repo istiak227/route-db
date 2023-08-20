@@ -28,6 +28,7 @@
         "routeName":"purchase",
         "icon":"InventoryIcon",
         "hasChild":true,
+        "sideMenu": true,
         "childRoutes":[
           {"path":"party-purchase",
           "element":"Party-purchase",
