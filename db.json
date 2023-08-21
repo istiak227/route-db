@@ -5,21 +5,24 @@
         "element": "Home",
         "routeName": "Home",
         "icon": "AddHomeIcon",
-        "hasChild":false
+        "hasChild":false,
+        "sideMenu":true
       },
       {
         "path": "about",
         "element": "About",
         "routeName": "About",
         "icon": "AddHomeIcon",
-        "hasChild":false
+        "hasChild":false,
+        "sideMenu":true
       },
       {
         "path": "contact",
         "element": "Contact",
         "routeName": "Contact",
         "icon": "AddHomeIcon",
-        "hasChild":false
+        "hasChild":false,
+        "sideMenu":true
       }
   ],
   "comments": [
