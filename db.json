@@ -20,24 +20,6 @@
         "routeName": "Contact",
         "icon": "AddHomeIcon",
         "hasChild":false
-      },
-      {
-        "routeName":"purchase",
-        "icon":"InventoryIcon",
-        "hasChild":true,
-        "childRoutes":[
-          {"path":"party-purchase",
-          "element":"PartyPurchase",
-          "routeName":"Party Purchase",
-          "icon":"InventoryIcon",
-          "select":"party-purchase"},
-
-          {"path":"petty-purchase",
-          "element":"PettyPurchase",
-          "routeName":"Petty Purchase",
-          "icon":"InventoryIcon",
-          "select":"petty-purchase"}
-        ]
       }
   ],
   "comments": [
